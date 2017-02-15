@@ -1,4 +1,4 @@
-package com.adam.Shifty;
+package service;
 
 
 import javax.ws.rs.GET;
