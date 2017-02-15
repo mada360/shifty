@@ -13,3 +13,6 @@ hs_err_pid*
 
 # Ignore target folder
 target/
+
+# Ignore intellij folder
+.idea/
