@@ -4,6 +4,7 @@ Shifty - A shift management API
 ## About
 
 
+Run using the following command from the root directory `mvn clean wildfly:run -Dmaven.test.skip=true`. Currently there are errors being produced by one of the dependencies during the test phase, however the deployment works correctly when tests are ignored.
 
 ## To Do
 
